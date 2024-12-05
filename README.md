@@ -1,0 +1,2 @@
+# JavaScript Loose Equality (==) Pitfalls
+This repository demonstrates a common JavaScript bug caused by the misuse of loose equality (`==`). Loose equality can lead to unexpected type coercion, resulting in incorrect program behavior.  This example shows how to avoid this using strict equality (`===`).
